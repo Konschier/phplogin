@@ -1,0 +1,16 @@
+fazer sistema de login
+acrescentar usuario/funcionario
+funcionario: cadastrar produtos, preços, formas de pagamento e realizar vendas
+usuario: fazer compra, escolher forma de pagamento, parcelar os pagamentos e gerar parcelas
+acrescentar sistema de graficos com: qual cliente compra mais e qual produto mais vende
+preços nos produtos, preço de custo e preço de vendasfazer uma relação de lucro entre ambos
+
+nos graficos deve de ter filtros
+
+acesso a tabela de clientes e de produtos
+
+cada cliente deve de mostrar cpf, endereço...
+
+tabela de compra nos 30 ultimos dias
+
+

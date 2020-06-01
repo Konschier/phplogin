@@ -1,0 +1,19 @@
+body {
+    background-color: #181a1b;
+    color: #ffffff;
+  }
+  .form-control{
+      background-color: black;
+  }
+  .btn-light{
+      background-color: #1a1c1d;
+      color: cornsilk;
+  }
+  .mr-sm2{
+      background-color: #3d3d3d;
+      color: cornsilk;
+  }
+  .signuperror{
+      font-style: bold;
+      color: crimson;
+  }
