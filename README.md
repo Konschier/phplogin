@@ -1,2 +1,2 @@
 # phplogin
-An bsic login sistem with php
+An basic login sistem with php
